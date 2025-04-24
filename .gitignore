@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# Output directory
+out/
+
+# WEKA jar (since it's large)
+lib/weka.jar
